@@ -12,7 +12,7 @@
 
 ### 🧭 About the Captain
 
-I'm **Praneet Hase**, a final-year B.E. Computer Engineering student steering toward a career in **DevOps**. Think of every project as a voyage — code is the cargo, pipelines are the currents, and my job is making sure deployments reach shore on time, every time.
+I'm **Praneet Hase**, B.E. Computer Engineering student steering toward a career in **DevOps**. Think of every project as a voyage — code is the cargo, pipelines are the currents, and my job is making sure deployments reach shore on time, every time.
 
 - ⚓ Navigating the DevOps ocean — Docker, Kubernetes, Jenkins, AWS
 - 🛠️ Hands-on with containerization, orchestration, and CI/CD automation
@@ -28,7 +28,7 @@ I'm **Praneet Hase**, a final-year B.E. Computer Engineering student steering to
    ───────────────────
    ROLE     : Aspiring DevOps Engineer
    PORT     : Silvassa, India
-   STATUS   : Final Year B.E. (Comp Eng)
+   STATUS   : B.E. (Comp Eng)
    MISSION  : Ship reliable infrastructure
    FLEET    : Docker · K8s · Jenkins · AWS
 ```
