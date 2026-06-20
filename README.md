@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Praneet%20Hase&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20DevOps%20Engineer%20%7C%20Docker%20%E2%80%A2%20AWS%20%E2%80%A2%20Kubernetes%20%E2%80%A2%20Jenkins&descSize=18&descAlignY=55" width="100%"/>
 
 <a href="https://www.linkedin.com/in/gecdhd-comp-praneet-hase">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Aspiring+DevOps+Engineer+%E2%98%81%EF%B8%8F;Docker+%7C+Kubernetes+%7C+Jenkins+%7C+AWS;Automating+Infrastructure%2C+One+Pipeline+at+a+Time;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Aspiring+DevOps+Engineer+%E2%98%81%EF%B8%8F;Docker+%7C+Kubernetes+%7C+Jenkins+%7C+AWS;Automating+Infrastructure%2C++at+a+Time;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </a>
 
 </div>
