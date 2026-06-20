@@ -1,138 +1,141 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/CaptainPraneet/CaptainPraneet/main/assets/header.svg" width="100%" alt="Captain Praneet — Command Deck header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,40:2c5364,100:00c6ff&height=260&section=header&text=Praneet%20Hase&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Aspiring%20DevOps%20Engineer%20%7C%20Building%20%26%20Automating%20Infrastructure&descSize=18&descAlignY=52" width="100%"/>
+
+<a href="https://www.linkedin.com/in/gecdhd-comp-praneet-hase">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=700&lines=Aspiring+DevOps+Engineer+%E2%98%81%EF%B8%8F;Docker+%E2%80%A2+Kubernetes+%E2%80%A2+Jenkins+%E2%80%A2+AWS;Infrastructure+as+Code+%7C+CI%2FCD+Pipelines;Automating+Today%2C+Scaling+Tomorrow+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-00c6ff?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0f2027"/>
+<img src="https://komarev.com/ghpvc/?username=CaptainPraneet&style=for-the-badge&color=00c6ff&labelColor=0f2027&label=PROFILE+VIEWS"/>
 
 </div>
 
 <br/>
 
-<table align="center" width="100%">
-<tr>
-<td width="58%" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=00c6ff" width="100%"/>
 
-### 🧭 About the Captain
+## 🚀 About Me
 
-I'm **Praneet Hase**, B.E. Computer Engineering student steering toward a career in **DevOps**. Think of every project as a voyage — code is the cargo, pipelines are the currents, and my job is making sure deployments reach shore on time, every time.
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="280"/>
 
-- ⚓ Navigating the DevOps ocean — Docker, Kubernetes, Jenkins, AWS
-- 🛠️ Hands-on with containerization, orchestration, and CI/CD automation
-- 🌊 Currently charting deeper waters in Linux internals & infrastructure-as-code
-- 📡 Always scanning for the next tool, the next pipeline, the next deploy
-- 💬 Open channel for anything Docker, Kubernetes, Jenkins, or AWS
+- 🎯 Aspiring **DevOps Engineer**, obsessed with automation, cloud infra & CI/CD pipelines
+- 🐳 Hands-on with **Docker** for containerization and **Kubernetes** for orchestration
+- ☁️ Building and breaking things on **AWS** to learn how the cloud really works
+- 🔧 Automating builds & deployments with **Jenkins**
+- 🧱 Practicing **Infrastructure as Code** with Terraform
+- 🌱 Currently sharpening Linux internals, shell scripting & GitOps workflows
+- 💬 Ask me about Docker, Kubernetes, Jenkins, AWS, or DevOps fundamentals
+- ⚡ Building my career one pipeline, one container, one deployment at a time
 
-</td>
-<td width="42%" valign="top" align="center">
+<br clear="right"/>
 
-```
-   ⚓  CAPTAIN'S LOG
-   ───────────────────
-   ROLE     : Aspiring DevOps Engineer
-   PORT     : Silvassa, India
-   STATUS   : B.E. (Comp Eng)
-   MISSION  : Ship reliable infrastructure
-   FLEET    : Docker · K8s · Jenkins · AWS
-```
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=00c6ff" width="100%"/>
 
-</td>
-</tr>
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,bash,git,github,terraform,yaml,python,nginx&theme=dark&perline=6" />
+</p>
+
+<div align="center">
+
+| Category | Tools |
+|----------|-------|
+| ☁️ **Cloud** | AWS (EC2, S3, IAM, VPC) |
+| 🐳 **Containers** | Docker, Docker Compose |
+| ☸️ **Orchestration** | Kubernetes |
+| 🔧 **CI/CD** | Jenkins, GitHub Actions |
+| 🧱 **IaC** | Terraform |
+| 🐧 **OS / Scripting** | Linux, Bash |
+| 🔀 **Version Control** | Git, GitHub |
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=00c6ff" width="100%"/>
+
+## 📌 Featured Projects
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🐳 Containerized App Deployments</h3>
+      <p align="center">End-to-end Docker workflows — multi-stage builds, Compose orchestration, and registry pushes for production-style deployments.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">☸️ Kubernetes Cluster Labs</h3>
+      <p align="center">Hands-on cluster setup, pods, services & deployments — exploring scaling, self-healing, and orchestration patterns.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🔧 Jenkins CI/CD Pipelines</h3>
+      <p align="center">Automated build → test → deploy pipelines, reducing manual release effort and catching issues earlier.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">☁️ AWS Cloud Infrastructure</h3>
+      <p align="center">Provisioning and managing cloud resources, IAM policies, and deployment environments on AWS.</p>
+    </td>
+  </tr>
 </table>
 
----
-
-<div align="center">
-
-### 📡 Tech Radar — Signal Strength
-
-<img src="https://raw.githubusercontent.com/CaptainPraneet/CaptainPraneet/main/assets/skills-radar.svg" width="640" alt="Animated tech skills radar chart"/>
-
-<sub>Each blip pulses with proficiency — closer to center, stronger the signal. Edit the percentages directly in <code>assets/skills-radar.svg</code> any time your skills level up.</sub>
-
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=00c6ff" width="100%"/>
 
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="42" height="42"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" width="42" height="42"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title="Jenkins" width="42" height="42"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" width="42" height="42"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="42" height="42"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" title="Terraform" width="42" height="42"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="42" height="42"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="42" height="42"/>
-</div>
-
----
-
-### 🛳️ Mission Log — Currently Learning
-
-- 🌱 Deep-diving into **Kubernetes** cluster architecture & orchestration patterns
-- 🔧 Sharpening **Jenkins** pipeline design for real-world CI/CD
-- ☁️ Expanding hands-on **AWS** infrastructure projects
-- 📦 Exploring **Infrastructure as Code** with Terraform
-
-### 📦 Cargo Hold — Featured Projects
-
-| Project | What's inside |
-|---|---|
-| 🐳 **Containerized Deployments** | Docker-based application packaging & multi-stage builds |
-| ☸️ **Kubernetes Lab** | Cluster setup, pods, services & orchestration experiments |
-| 🔧 **CI/CD Pipelines** | Jenkins pipeline automation for build → test → deploy |
-| ☁️ **AWS Infrastructure** | Cloud deployment & infrastructure projects on AWS |
-
----
-
-### 📊 Fleet Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CaptainPraneet&show_icons=true&hide_border=true&bg_color=0A192F&title_color=64FFDA&icon_color=FFB454&text_color=CCD6F6&border_color=1E3A5F&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainPraneet&layout=compact&hide_border=true&bg_color=0A192F&title_color=64FFDA&text_color=CCD6F6&border_color=1E3A5F" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CaptainPraneet&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&icon_color=00c6ff&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainPraneet&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=CaptainPraneet&hide_border=true&background=0A192F&ring=64FFDA&fire=FFB454&currStreakLabel=64FFDA&sideLabels=CCD6F6&sideNums=CCD6F6&dates=8892B0" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=CaptainPraneet&theme=tokyonight&hide_border=true&background=0d1117&ring=00c6ff&fire=00c6ff&currStreakLabel=00c6ff" alt="GitHub Streak"/>
 </p>
+
+### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CaptainPraneet&no-frame=true&row=1&column=7&theme=onedark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaptainPraneet&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00c6ff&line=00c6ff&point=ffffff" width="100%"/>
 </p>
 
----
-
-### 🌊 Voyage Trail — Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaptainPraneet&hide_border=true&bg_color=0A192F&color=64FFDA&line=64FFDA&point=FFB454&area=true&area_color=64FFDA" width="100%"/>
-</p>
+### 🐍 Contribution Snake
 
 <p align="center">
   <a href="https://github.com/CaptainPraneet/CaptainPraneet">
-    <img src="https://raw.githubusercontent.com/CaptainPraneet/CaptainPraneet/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+    <img src="https://github.com/CaptainPraneet/CaptainPraneet/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
   </a>
 </p>
 
----
+### 🏆 GitHub Trophies
 
-### 📍 Hailing Frequencies — Get In Touch
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CaptainPraneet&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=00c6ff" width="100%"/>
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gecdhd-comp-praneet-hase">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A192F?style=for-the-badge&logo=linkedin&logoColor=64FFDA&labelColor=0A192F" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/PraneetHase">
-    <img src="https://img.shields.io/badge/X-PraneetHase-0A192F?style=for-the-badge&logo=x&logoColor=64FFDA&labelColor=0A192F" alt="X"/>
+    <img src="https://img.shields.io/badge/X-PraneetHase-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
   <a href="https://github.com/CaptainPraneet">
-    <img src="https://img.shields.io/badge/GitHub-CaptainPraneet-0A192F?style=for-the-badge&logo=github&logoColor=64FFDA&labelColor=0A192F" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-CaptainPraneet-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CaptainPraneet&label=Profile%20Views&color=0A192F&style=for-the-badge" alt="Profile Views"/>
+  <i>💡 "Automation today, innovation tomorrow."</i>
 </p>
 
-<p align="center">
-  <sub>⚓ <i>"Every great deployment starts with a captain who refuses to abandon ship."</i></sub>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0A192F,50:112240,100:0A192F&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,60:2c5364,100:0f2027&height=150&section=footer&animation=twinkling" width="100%"/>
